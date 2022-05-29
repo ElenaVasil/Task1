@@ -1,3 +1,11 @@
-# Netology-GitHub
-Hello, I learn to work with GitHub
-New changes
+# NeuroStartUp
+
+![](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
+
+*NeuroStartUp* Ч динамически развивающийс€ стартап, специализирующийс€ на поиске с использованием 
+ новейших технологий искусственного интеллекта.
+
+Ќаши преимущества:
+* ¬ысока€ точность поиска
+* ¬ысока€ скорость поиска
+* Ќизка€ цена
